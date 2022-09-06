@@ -1,10 +1,10 @@
 # adhd
-A set of chrome extension games you can play in between work breaks (10-15min)
+adhd is a selection of chrome extension games you can play in between work breaks (10-15min)
 
 List of games:
-Flappy Bird
-Doodle Jump
-Pacman
+/n Flappy Bird
+/n Doodle Jump
+/n Pacman
 ...
 
 
